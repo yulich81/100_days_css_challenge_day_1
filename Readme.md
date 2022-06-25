@@ -8,8 +8,8 @@ This is my solution to [Matthias Martin "100 Days CSS"](https://codepen.io/roydi
 
 ## Solution
 
-- Github: [click here]()
-- Netlify: [click here]()
+- Github: [click here](https://github.com/yulich81/100_days_css_challenge_day_1)
+- Netlify: [click here](https://cosmic-bombolone-eadb80.netlify.app/)
 
 ## Author
 
